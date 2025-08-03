@@ -24,3 +24,4 @@ print("welcome", name)
 print("age =", age)
 print("marks =", marks)
 
+
