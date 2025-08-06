@@ -39,4 +39,5 @@ print(not (a > b))
 val1 = True 
 val2 = True
 print("and operators:", val1 and val2) 
+
 print("or operators:", val1 or val2) 
