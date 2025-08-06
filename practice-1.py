@@ -3,3 +3,4 @@ second = int(input("enter second : "))
 
 print("sum =", first + second)
 
+
