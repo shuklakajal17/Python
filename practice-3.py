@@ -3,3 +3,4 @@ b = float(input("enter second : "))
 
 
 print("avg =",(a + b)/2)
+
