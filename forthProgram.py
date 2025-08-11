@@ -1,4 +1,4 @@
-# type convertion 
+# type convertion
 a = 2
 b = 4.25
 
@@ -23,5 +23,6 @@ marks = float(input("enter marks:"))
 print("welcome", name)
 print("age =", age)
 print("marks =", marks)
+
 
 
