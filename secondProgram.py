@@ -4,3 +4,4 @@ a = None
 print(type(old))
 
 print(type(a))
+
