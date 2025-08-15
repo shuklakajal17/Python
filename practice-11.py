@@ -6,4 +6,5 @@ movies.append(mov)
 mov = input("enter 3rd movies: ")
 movies.append(mov)
 
+
 print(movies)
